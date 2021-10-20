@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, Xiaolan here.
+This is Xiaolan (Angelina) Huang, junior student in UCSD major in Interdisciplenary Computing and Art. I love web designs and game development (3D) and VR environments.
+
+## 🔭 I’m currently working on ...
+
+## My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Mielan/Mielan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
