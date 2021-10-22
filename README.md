@@ -6,10 +6,10 @@ This is Xiaolan (Angelina) Huang, junior student in UCSD major in Interdisciplen
 ## My Stats
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mielan&count_private=true&theme=dracula&show_icons=true" />
+  <img height="180px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mielan&count_private=true&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mielan&layout=compact&theme=dracula&show_icons=true" />
+  <img height="180px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mielan&layout=compact&theme=dracula&show_icons=true" />
 </a>
 
 
