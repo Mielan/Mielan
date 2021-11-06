@@ -2,11 +2,11 @@
 This is Xiaolan (Angelina) Huang, junior student in UCSD major in Interdisciplenary Computing and Art. I love web designs and game development (3D) and VR environments.
 
 ## 🔭 I’m currently working on ...
-
-[![Readme Card](https://github.com/Mielan/Global-Game-Jam/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/Mielan/Global-Game-Jam/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Mielan/Global-Game-Jam)
 
 ## My Stats
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
