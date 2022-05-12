@@ -6,7 +6,7 @@ This is Xiaolan (Angelina) Huang, junior student in UCSD major in Interdisciplen
 [![Readme Card](https://github.com/Mielan/Global-Game-Jam/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mielan&repo=MUS-170&theme=dracula)](https://github.com/Mielan/MUS-170)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mielan&repo=MUS-170&theme=dracula)](https://github.com/Mielan/MUS-LAN)
 
 ## My Stats
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
