@@ -19,7 +19,7 @@ This is Xiaolan (Angelina) Huang, junior student in UCSD major in Interdisciplen
 
 
 <!--
-**yanxingjianken/yanxingjianken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mielan/Mielan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
