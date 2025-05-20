@@ -1,5 +1,5 @@
-### Hi, Xiaolan here.
-This is Xiaolan (Angelina) Huang, junior student in UCSD major in Interdisciplenary Computing and Art. I love web designs and game development (3D) and VR environments.
+### Hi, Angelina here.
+This is Angelina Huang, studied in UCSD major in Interdisciplinary Computing and Art. I love web designs and game development (3D) and VR environments.
 
 ## 🔭 I’m currently working on ...
 <!--https://github.com/Mielan/Global-Game-Jam
